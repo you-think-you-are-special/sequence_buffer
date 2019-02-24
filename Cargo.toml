@@ -1,7 +1,10 @@
 [package]
 name = "sequence_buffer"
+description="Sequence buffer data structure implementation"
 version = "0.1.0"
 authors = ["Alexander Litvinov <sanderlimail@gmail.com>"]
 edition = "2018"
+license = "MIT"
+keywords=["sequence-buffer"]
 
 [dependencies]
